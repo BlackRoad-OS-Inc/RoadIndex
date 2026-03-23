@@ -1,9 +1,23 @@
-# License
+Copyright (c) 2025-2026 BlackRoad OS, Inc. All Rights Reserved.
 
-Copyright (c) 2019-2025 Meili SAS
+PROPRIETARY SOFTWARE LICENSE
 
-Part of this work fall under the Meilisearch Enterprise Edition (EE) and are licensed under the Business Source License 1.1, please refer to [LICENSE-EE](./LICENSE-EE) for details.
+This software and associated documentation files (the "Software") are the
+exclusive property of BlackRoad OS, Inc. ("BlackRoad"). The Software is
+licensed, not sold.
 
-The other parts of this work are licensed under the [MIT license](./LICENSE-MIT).
+Permission is NOT granted to any person or entity to copy, modify, merge,
+publish, distribute, sublicense, sell, or create derivative works of the
+Software without the express written consent of BlackRoad OS, Inc.
 
-`SPDX-License-Identifier: MIT AND BUSL-1.1`
+The Software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement.
+
+For licensing inquiries: legal@blackroad.io
+
+---
+
+NOTICE: This software is derived from meilisearch/meilisearch.
+Original license terms may have applied to the upstream source.
+This derivative work is independently licensed under the terms above.
