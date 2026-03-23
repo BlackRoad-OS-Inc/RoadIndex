@@ -1,3 +1,11 @@
+# RoadIndex
+
+> Road Fleet: RoadIndex — sovereign fork. BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <p align="center">
   <a href="https://www.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=logo#gh-light-mode-only" target="_blank">
     <img src="assets/meilisearch-logo-light.svg?sanitize=true#gh-light-mode-only">
